@@ -14,6 +14,7 @@ class DeliveryTimeEntity extends Entity
     public const DELIVERY_TIME_DAY = 'day';
     public const DELIVERY_TIME_WEEK = 'week';
     public const DELIVERY_TIME_MONTH = 'month';
+    public const DELIVERY_TIME_YEAR = 'year';
 
     /**
      * @var string|null
